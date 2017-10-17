@@ -1,6 +1,6 @@
 {
   "name": "xiv-react-preload",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "A component to manage preloading media before showing a component",
   "main": "lib/index.js",
   "scripts": {
